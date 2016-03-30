@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/photo/frontend.svg?branch=master)](http://travis-ci.org/photo/frontend)
+[![Build Status](https://travis-ci.org/oparoz/frontend.svg?branch=master)](http://travis-ci.org/oparoz/frontend)
 
 <img src="https://raw.githubusercontent.com/photo/frontend/master/files/creative/logo.png" width="250">
 
